@@ -21,9 +21,6 @@ body {
 	padding: 0 45px 35px;
 }
 
-
-/* Write all remaining styles here */
-
 h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
@@ -44,12 +41,19 @@ p {
   margin: 0 0 20px 0;
 }
 
+/* Write all remaining styles here */
+
 .small {
   font-size: .8em;
 }
 
 #main-image {
   border: 5px #98ADA6 solid;
+}
+
+#about a {
+  color: #1783bb;
+  text-decoration: none;
 }
 
 #press {
