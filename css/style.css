@@ -56,6 +56,10 @@ h2 {
   border: 5px #ccc solid;
 }
 
+#press img:hover {
+  border-color: #70807B;
+}
+
 footer {
   float: right;
 }
